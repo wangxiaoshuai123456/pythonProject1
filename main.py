@@ -1,5 +1,5 @@
 def print_hi(name):
-    pass #111111111111111111111111111111111111111
+    pass #
 
 
 if __name__ == '__main__':
